@@ -6,7 +6,10 @@ Lucidium is vanilla-like resource pack of tweaked assets, improvements to outdat
 <hr>
 
 <img src="/gallery/text/credits.png" alt="credits" height="50">
+<hr>
 
 <img src="/gallery/text/feature-list.png" alt="credits" height="50">
+<hr>
 
 <img src="/gallery/text/terms-of-use.png" alt="credits" height="50">
+<hr>
