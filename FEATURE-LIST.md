@@ -40,7 +40,8 @@
 * visible glass pane
 * visible waxed copper
 * flat trapdoors
-* flat dragonegg
+* flat dragon egg
+* flat beds
 * improved ghast tear
 * improve sea pickle
 * consistent smithing templates
