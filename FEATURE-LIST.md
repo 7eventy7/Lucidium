@@ -1,5 +1,5 @@
 # FULLY FLEDGED FEATURE LIST
-
+> Every retexture, fix, improvement and other change made in Lucidium!
 
 ## REDSTONE CHANGES
 * __Minecart Rail__ (all types)
