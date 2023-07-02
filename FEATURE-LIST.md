@@ -3,7 +3,7 @@
 
 ## REDSTONE CHANGES
 * Minecart Rail _(all types)_
-* * all metal on rails is much shinier
+    * all metal on rails is much shinier
 * button retextures with blockstate indicating redstone indentations
 * pressure plate retextures with blockstate indicating redstone indentations
 * lever retexture with blockstate indicating redstone indentations
