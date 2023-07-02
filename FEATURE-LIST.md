@@ -1,15 +1,63 @@
 # FULLY FLEDGED FEATURE LIST
-> Every retexture, fix, improvement and other change made in Lucidium!
+> Every retexture, improvement, fix and other change made in Lucidium!
 
 ## REDSTONE CHANGES
 * __Minecart Rail__ (all types)
-    * _all metal on rails is much shinier_
+    * _all metal parts of rails is much shinier_
+* __Buttons__ (all types)
+    * Dedicated textures and blockstate indicating indentations
+* __Button retextures__
+    * Blockstate indicating redstone indentations
+* __Pressure plate retextures__
+    * Blockstate indicating redstone indentations
+* __Lever retexture__
+    * Blockstate indicating redstone indentations
+* __Sticky piston__
+    * _unique textures for all sides_
+* ___Pistons__
+    * Blockstate indication
+* __Static__
+* __Target blocks__
+    * Blockstate indicating levels
+* __Observer__
+    * Blockstate indication
+* __Nest__
+    * Blockstate indicating honey levels
+* __Hive__
+    * Blockstate indicating honey levels
+* __Visible tripwire__
+* __Non-animated inactive sculk blocks__
+* __Smooth redstone dust__
+    * Signal strength indication
+* __Clean redstone torch__
+* __Clean repeater__
+    * Blockstate indication
+* __Comparator__
+    * Blockstate indication
+* __Composter__
+    * Fill level indication
+* __Cauldrons__
+    * Fill level indication
+* __Furnace, Blast Furnace, Smoker__
+    * _animated distinct retextures with "lit" blockstate indication_
+* __Redstone Lamp__
+    * _animated retexture_
+* __Daylight Detector__
+    * _retexture with blockstate indication_
+* __Hopper__
+    * _corrected texture mapping with "facing" blockstate indication_
+* __Dropper__
+    * _color distinct texture with "facing" blockstate indication_
+* __Dispenser__
+    * _color distinct texture with "facing" blockstate indication_
+* __Note Block__
+    * _retexture with "note", "instrument", "powered" blockstate indication_
+
 * button retextures with blockstate indicating redstone indentations
 * pressure plate retextures with blockstate indicating redstone indentations
 * lever retexture with blockstate indicating redstone indentations
 * sticky piston unique textures for all sides
 * pistons with blockstate indication
-* static 
 * target blocks with blockstate indicating levels
 * observer with blockstate indication
 * nest with blockstate indicating honey levels
