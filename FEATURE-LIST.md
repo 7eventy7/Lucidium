@@ -45,40 +45,13 @@
 * __Daylight Detector__
     * _retexture with blockstate indication_
 * __Hopper__
-    * _corrected texture mapping with "facing" blockstate indication_
+    * _corrected texture mapping with <sup>"facing"<sup> blockstate indication_
 * __Dropper__
-    * _color distinct texture with "facing" blockstate indication_
+    * _color distinct texture with <sup>"facing"<sup> blockstate indication_
 * __Dispenser__
-    * _color distinct texture with "facing" blockstate indication_
+    * _color distinct texture with <sup>"facing"<sup> blockstate indication_
 * __Note Block__
-    * _retexture with "note", "instrument", "powered" blockstate indication_
-
-* button retextures with blockstate indicating redstone indentations
-* pressure plate retextures with blockstate indicating redstone indentations
-* lever retexture with blockstate indicating redstone indentations
-* sticky piston unique textures for all sides
-* pistons with blockstate indication
-* target blocks with blockstate indicating levels
-* observer with blockstate indication
-* nest with blockstate indicating honey levels
-* hive with blockstate indicating honey levels
-* visible tripwire
-* non-animated inactive sculk blocks
-* smooth redstone dust with signal strength indication
-* clean redstone torch
-* clean reapeter with blockstate indication
-* comparator blockstate indication
-* composter fill level indication
-* cauldrons fill level indication
-* furnace animated 
-* blast furnace animated
-* smoker animated
-* redstone lamp animated
-* daylight detector toggled sides 
-* hopper direction indicators
-* dropper direction indicators
-* dispenser direction indicators
-* new note block texture
+    * _retexture with <sup>"note", "instrument", "powered"<sup> blockstate indication_
 
 ## ITEMS
 * 3D flower pot
