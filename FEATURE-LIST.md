@@ -2,56 +2,54 @@
 > Every retexture, improvement, fix and other change made in Lucidium!
 
 ## REDSTONE CHANGES
+* __Redstone Torch__
+    * _cleaned retexture_
 * __Minecart Rail__ (all types)
     * _all metal parts of rails is much shinier_
 * __Buttons__ (all types)
-    * Dedicated textures and blockstate indicating indentations
-* __Button retextures__
-    * Blockstate indicating redstone indentations
-* __Pressure plate retextures__
-    * Blockstate indicating redstone indentations
-* __Lever retexture__
-    * Blockstate indicating redstone indentations
-* __Sticky piston__
-    * _unique textures for all sides_
-* ___Pistons__
-    * Blockstate indication
-* __Static__
-* __Target blocks__
-    * Blockstate indicating levels
+    * dedicated retexture with blockstate indication_ <sup>"powered"</sup>
+* __Pressure Plates__ (all types)
+    * dedicated retexture with blockstate indication_ <sup>"powered"</sup>
+* __Lever__
+    * cleaned retexture with blockstate indication_ <sup>"powered"</sup>
+* ___Piston, Sticky Piston__
+    * _distinct retexture with blockstate indication_ <sup>"powered"</sup>
+* __Target Block__
+    * _retexture with blockstate indication_ <sup>"levels"</sup>
 * __Observer__
-    * Blockstate indication
-* __Nest__
-    * Blockstate indicating honey levels
-* __Hive__
-    * Blockstate indicating honey levels
-* __Visible tripwire__
-* __Non-animated inactive sculk blocks__
-* __Smooth redstone dust__
-    * Signal strength indication
-* __Clean redstone torch__
-* __Clean repeater__
-    * Blockstate indication
+    * _retexture with blockstate indication_ <sup>"powered"</sup>
+* __Bee Nest__
+    * _retexture with blockstate indication_ <sup>"honey_level"</sup>
+* __Bee Hive__
+    * _retexture with blockstate indication_ <sup>"honey_level"</sup>
+* __Tripwire String__
+    * _visible retexture with distinct blockstate indication_ <sup>"powered"</sup>
+* __Sculk Sensor, Calibrated Sculk Sensor__
+    * _non-animated inactive retexture with animated active retexture_
+* __Redstone Dust__
+    * _cleaned retexture with blockstate indication_ <sup>"powered"</sup>
+* __Repeater__
+    * _cleaned retexture with numbered blockstate indication_ <sup>"power"</sup>
 * __Comparator__
-    * Blockstate indication
+    * _cleaned retexture with blockstate indication_ <sup>"mode", "powered"</sup>
 * __Composter__
-    * Fill level indication
-* __Cauldrons__
-    * Fill level indication
+    * _cleaned retexture with blockstate indication_ <sup>"level"</sup>
+* __Cauldron (water, lava, powder snow)__
+    * _distinct retextures with blockstate indication_ <sup>"level"</sup>
 * __Furnace, Blast Furnace, Smoker__
-    * _animated distinct retextures with "lit" blockstate indication_
+    * _animated distinct retextures with blockstate indication_ <sup>"lit"</sup>
 * __Redstone Lamp__
     * _animated retexture_
 * __Daylight Detector__
-    * _retexture with blockstate indication_
+    * _retexture with blockstate indication_ <sup>"inverted"</sup>
 * __Hopper__
     * _corrected texture mapping with blockstate indication_ <sup>"facing"</sup>
 * __Dropper__
     * _color distinct texture with blockstate indication_ <sup>"facing"</sup>
 * __Dispenser__
-    * _color distinct texture with <sup>"facing"</sup> blockstate indication_
+    * _color distinct texture with blockstate indication_ <sup>"facing"</sup>
 * __Note Block__
-    * _retexture with <sup>"note", "instrument", "powered"</sup> blockstate indication_
+    * _retexture with blockstate indication_ <sup>"note", "instrument", "powered"</sup>
 
 ## ITEMS
 * 3D flower pot
