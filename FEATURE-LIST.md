@@ -34,7 +34,7 @@
     * _cleaned retexture with blockstate indication_ <sup>"mode", "powered"</sup>
 * __Composter__
     * _cleaned retexture with blockstate indication_ <sup>"level"</sup>
-* __Cauldron (water, lava, powder snow)__
+* __Cauldron__ (water, lava, powder snow)
     * _distinct retextures with blockstate indication_ <sup>"level"</sup>
 * __Furnace, Blast Furnace, Smoker__
     * _animated distinct retextures with blockstate indication_ <sup>"lit"</sup>
@@ -52,218 +52,415 @@
     * _retexture with blockstate indication_ <sup>"note", "instrument", "powered"</sup>
 
 ## ITEMS
-* 3D flower pot
-* 3D bell
-* 3D cauldron
-* 3D hoppers
-* 3D levers
-* 3D minecart variants
-* visible glass pane
-* visible waxed copper
-* flat trapdoors
-* flat dragon egg
-* flat beds
-* improved ghast tear
-* improve sea pickle
-* consistent smithing templates
-* square boats
-* better frogspawn
-* brown leather shears
-* improved fresh iron nugget
-* fresh book, enchanted book, book and quill
-* improved flint and steel
-* azalea sprite
-* flowering azalea sprite
-* spore blossom sprite
-* dripleaf sprite
-* small dripleaf sprite
-* gold armor recolor
-* gold tools recolor
-* gold ingot recolor
-* golden apple recolor
-* gold nugget recolor
-* golden carrot recolor
-* raw gold recolor
-* clock recolor
-* shinier compass
-* square cake
-* infested stone variants
-* netherite elytra
-* distinct dyes
-* distinct banner patterns
-* unique gunpowder
-* unique sugar
-* unique glowstone dust
-* unique tall flowers
-* obvious spawn eggs
-* less yellow wheat
-* bone colored bonemeal
-* bone colored bone
-* fresh nether wart
-* smooth stone repeater
-* smooth stone comparator 
-* acacia sapling corrective bark coloring
-* dark oak sapling corrective bark coloring
-* less yellow blaze rod
-* less yellow blaze powder
-* fresh barrier block
-* fresh void structure block
-* centered music discs
-* darker melon seed
-* properly colored egg
-* consistent doors
-* sword-less square item frame
-* sword-less square glow item frame
-* proper painting
+* __3D Flower Pot__
+    * ____
+* __3D Bell__
+    * ____
+* __3D Cauldron__
+    * ____
+* __3D Hoppers__
+    * ____
+* __3D Levers__
+    * ____
+* __3D Minecart Variants__
+    * ____
+* __Visible Glass Pane__
+    * ____
+* __Visible Waxed Copper__
+    * ____
+* __Flat Trapdoors__
+    * ____
+* __Flat Dragon Egg__
+    * ____
+* __Flat Beds__
+    * ____
+* __Improved Ghast Tear__
+    * ____
+* __Improved Sea Pickle__
+    * ____
+* __Consistent Smithing Templates__
+    * ____
+* __Square Boats__
+    * ____
+* __Better Frogspawn__
+    * ____
+* __Brown Leather Shears__
+    * ____
+* __Improved Fresh Iron Nugget__
+    * ____
+* __Fresh Book, Enchanted Book, Book and Quill__
+    * ____
+* __Improved Flint and Steel__
+    * ____
+* __Azalea Sprite__
+    * ____
+* __Flowering Azalea Sprite__
+    * ____
+* __Spore Blossom Sprite__
+    * ____
+* __Dripleaf Sprite__
+    * ____
+* __Small Dripleaf Sprite__
+    * ____
+* __Gold Armor Recolor__
+    * ____
+* __Gold Tools Recolor__
+    * ____
+* __Gold Ingot Recolor__
+    * ____
+* __Golden Apple Recolor__
+    * ____
+* __Gold Nugget Recolor__
+    * ____
+* __Golden Carrot Recolor__
+    * ____
+* __Raw Gold Recolor__
+    * ____
+* __Clock Recolor__
+    * ____
+* __Shinier Compass__
+    * ____
+* __Square Cake__
+    * ____
+* __Infested Stone Variants__
+    * ____
+* __Netherite Elytra__
+    * ____
+* __Distinct Dyes__
+    * ____
+* __Distinct Banner Patterns__
+    * ____
+* __Unique Gunpowder__
+    * ____
+* __Unique Sugar__
+    * ____
+* __Unique Glowstone Dust__
+    * ____
+* __Unique Tall Flowers__
+    * ____
+* __Obvious Spawn Eggs__
+    * ____
+* __Less Yellow Wheat__
+    * ____
+* __Bone Colored Bonemeal__
+    * ____
+* __Bone Colored Bone__
+    * ____
+* __Fresh Nether Wart__
+    * ____
+* __Smooth Stone Repeater__
+    * ____
+* __Smooth Stone Comparator__
+    * ____
+* __Acacia Sapling Corrective Bark Coloring__
+    * ____
+* __Dark Oak Sapling Corrective Bark Coloring__
+    * ____
+* __Less Yellow Blaze Rod__
+    * ____
+* __Less Yellow Blaze Powder__
+    * ____
+* __Fresh Barrier Block__
+    * ____
+* __Fresh Void Structure Block__
+    * ____
+* __Centered Music Discs__
+    * ____
+* __Darker Melon Seed__
+    * ____
+* __Properly Colored Egg__
+    * ____
+* __Consistent Doors__
+    * ____
+* __Sword-less Square Item Frame__
+    * ____
+* __Sword-less Square Glow Item Frame__
+    * ____
+* __Proper Painting__
+    * ____
 
 ## LOW DURABILITY TOOLS AND WEAPONS WARNINGS
-* golden tools, weapons
-* diamond tools, weapons
-* wooden tools, weapons
-* stone tools, weapons
-* iron tools, weapons
-* netherite tools, weapons
-* bow, crossbow
-* shears
-* flint and steel
-* elytra
-* fishing rod
+* __Golden Tools, Weapons__
+    * ____
+* __Diamond Tools, Weapons__
+    * ____
+* __Wooden Tools, Weapons__
+    * ____
+* __Stone Tools, Weapons__
+    * ____
+* __Iron Tools, Weapons__
+    * ____
+* __Netherite Tools, Weapons__
+    * ____
+* __Bow, Crossbow__
+    * ____
+* __Shears__
+    * ____
+* __Flint and Steel__
+    * ____
+* __Elytra__
+    * ____
+* __Fishing Rod__
+    * ____
 
 ## BLOCK TEXTURES
-* 3D iron bars 
-* dragon egg retexture
-* sniffer egg retexture
-* flowery spore blossom
-* better ancient debris
-* smoother chest, trapped chest
-* brown loom leather
-* distance 7 dying leaves
-* smoother wool
-* gradual sided moistening farmland
-* gradual breaking anvil sides
-* less yellow glowstone
-* brighter pearlescent froglight 
-* dark oak soul fire campfire
-* dark oak soul torch
-* beacon animation with fancy glass
-* smoother diorite
-* less yellow hayblock
-* darker non-static bedrock
-* unobstrusive scaffolding
-* clear colored glass
-* clear tinited glass
-* tileable prismarine bricks
-* no eye on front of ender chest
-* new bedrock on end crystal
-* low grass, path, mycelium, snow grass, podzol
-* jappa styled dirt, coarse dirt, rooted dirt
-* melon stem changed to respective seed color
-* pumpking stem changed to respective seed color
-* recolored melon to be less yellow
-* properly colored lit black candle
-* connected sandstone stairs, slabs, walls
-* connected red sandstone stairs, slabs, walls
-* smooth stone glisten texture rework
-* properly colored glazed terracotta with green creeper
-* bookshelf dedicated top & bottom texture
-* consistent beautiful flowers
-* weeeping vine age 25 texture
-* twisting vine age 25 texture
-* kelp age 25 texture
-* cave vine age 25 texture
-* chorus flower age 0-5 textures
-* nether wart age 0-3 textures
+* __3D Iron Bars__
+    * ____
+* __Dragon Egg Retexture__
+    * ____
+* __Sniffer Egg Retexture__
+    * ____
+* __Flowery Spore Blossom__
+    * ____
+* __Better Ancient Debris__
+    * ____
+* __Smoother Chest, Trapped Chest__
+    * ____
+* __Brown Loom Leather__
+    * ____
+* __Distance 7 Dying Leaves__
+    * ____
+* __Smoother Wool__
+    * ____
+* __Gradual Sided Moistening Farmland__
+    * ____
+* __Gradual Breaking Anvil Sides__
+    * ____
+* __Less Yellow Glowstone__
+    * ____
+* __Brighter Pearlescent Froglight__
+    * ____
+* __Dark Oak Soul Fire Campfire__
+    * ____
+* __Dark Oak Soul Torch__
+    * ____
+* __Beacon Animation with Fancy Glass__
+    * ____
+* __Smoother Diorite__
+    * ____
+* __Less Yellow Hayblock__
+    * ____
+* __Darker Non-Static Bedrock__
+    * ____
+* __Unobtrusive Scaffolding__
+    * ____
+* __Clear Colored Glass__
+    * ____
+* __Clear Tinted Glass__
+    * ____
+* __Tileable Prismarine Bricks__
+    * ____
+* __No Eye on Front of Ender Chest__
+    * ____
+* __New Bedrock on End Crystal__
+    * ____
+* __Low Grass, Path, Mycelium, Snow Grass, Podzol__
+    * ____
+* __Jappa Styled Dirt, Coarse Dirt, Rooted Dirt__
+    * ____
+* __Melon Stem Changed to Respective Seed Color__
+    * ____
+* __Pumpkin Stem Changed to Respective Seed Color__
+    * ____
+* __Recolored Melon to Be Less Yellow__
+    * ____
+* __Properly Colored Lit Black Candle__
+    * ____
+* __Connected Sandstone Stairs, Slabs, Walls__
+    * ____
+* __Connected Red Sandstone Stairs, Slabs, Walls__
+    * ____
+* __Smooth Stone Glisten Texture Rework__
+    * ____
+* __Properly Colored Glazed Terracotta with Green Creeper__
+    * ____
+* __Bookshelf Dedicated Top & Bottom Texture__
+    * ____
+* __Consistent Beautiful Flowers__
+    * ____
+* __Weeping Vine Age 25 Texture__
+    * ____
+* __Twisting Vine Age 25 Texture__
+    * ____
+* __Kelp Age 25 Texture__
+    * ____
+* __Cave Vine Age 25 Texture__
+    * ____
+* __Chorus Flower Age 0-5 Textures__
+    * ____
+* __Nether Wart Age 0-3 Textures__
+    * ____
 
 ## BLOCK VARIATIONS
-* bricks
-* crying obsidian
-* birch log
-* gravel
-* terracotta
-* colored terracotta
-* stone
-* red mushroom block
-* granite
-* andesite
-* smoother diorite
-* end stone
-* bookshelf
-* chiseled bookshelf
+* __Bricks__
+    * ____
+* __Crying Obsidian__
+    * ____
+* __Birch Log__
+    * ____
+* __Gravel__
+    * ____
+* __Terracotta__
+    * ____
+* __Colored Terracotta__
+    * ____
+* __Stone__
+    * ____
+* __Red Mushroom Block__
+    * ____
+* __Granite__
+    * ____
+* __Andesite__
+    * ____
+* __Smoother Diorite__
+    * ____
+* __End Stone__
+    * ____
+* __Bookshelf__
+    * ____
+* __Chiseled Bookshelf__
+    * ____
 
 ## DOUBLE SLABS
-* quartz
-* cut red sandstone
-* cut sandstone
-* polished andesite
-* polished granite
-* polished diorite
-* polished blackstone
-* polished deepslate
+* __Quartz__
+    * ____
+* __Cut Red Sandstone__
+    * ____
+* __Cut Sandstone__
+    * ____
+* __Polished Andesite__
+    * ____
+* __Polished Granite__
+    * ____
+* __Polished Diorite__
+    * ____
+* __Polished Blackstone__
+    * ____
+* __Polished Deepslate__
+    * ____
 
 ## ENTITY
-* brown saddles for horse, donkey, mule, strider, pig
-* torn zombie clothes
-* proper iron golem recolor
-* zombie villager black eyes like zombies
-* shulker bottom lip darker coloring
-* jappa styled creeper
-* proper black cat
-* crying ghasts
+* __Brown Saddles for Horse, Donkey, Mule, Strider, Pig__
+    * ____
+* __Torn Zombie Clothes__
+    * ____
+* __Proper Iron Golem Recolor__
+    * ____
+* __Zombie Villager Black Eyes Like Zombies__
+    * ____
+* __Shulker Bottom Lip Darker Coloring__
+    * ____
+* __Jappa Styled Creeper__
+    * ____
+* __Proper Black Cat__
+    * ____
+* __Crying Ghasts__
+    * ____
 
 ## GUI
-* slightly smaller crosshair
-* options menu background
-* world selection background
-* custom 4k menu panorama 
-* HD minecraft java logo
-* royal styled menu buttons
-* improved vanilla icons
-* hotbar redesigned
-* container GUI redesigned 
-* smoother font
-* added secret splash texts
-* smaller boss bars
-* empty armor slot parity
+* __Slightly Smaller Crosshair__
+    * ____
+* __Options Menu Background__
+    * ____
+* __World Selection Background__
+    * ____
+* __Custom 4K Menu Panorama__
+    * ____
+* __HD Minecraft Java Logo__
+    * ____
+* __Royal Styled Menu Buttons__
+    * ____
+* __Improved Vanilla Icons__
+    * ____
+* __Hotbar Redesigned__
+    * ____
+* __Container GUI Redesigned__
+    * ____
+* __Smoother Font__
+    * ____
+* __Added Secret Splash Texts__
+    * ____
+* __Smaller Boss Bars__
+    * ____
+* __Empty Armor Slot Parity__
+    * ____
 
 ## ASSORTED
-* new 'kong' painting
-* white beacon beam
-* netherite elytra wings
-* unobtrusive fire & soulfire
-* minimal weather particles
-* no vignette
-* volume adjustments
+* __New 'Kong' Painting__
+    * ____
+* __White Beacon Beam__
+    * ____
+* __Netherite Elytra Wings__
+    * ____
+* __Unobtrusive Fire & Soulfire__
+    * ____
+* __Minimal Weather Particles__
+    * ____
+* __No Vignette__
+    * ____
+* __Volume Adjustments__
+    * ____
 
 ## LANGUAGE
-* usa english name of 'steak' changed to 'cooked beef'
-* british english name of 'steak' changed to 'cooked beef'
-* british english name of 'roast chicken' changed to 'cooked chicken'
-* british english name of 'mushroom soup' changed to 'mushroom stew'
+* __USA English Name of 'Steak' Changed to 'Cooked Beef'__
+    * ____
+* __British English Name of 'Steak' Changed to 'Cooked Beef'__
+    * ____
+* __British English Name of 'Roast Chicken' Changed to 'Cooked Chicken'__
+    * ____
+* __British English Name of 'Mushroom Soup' Changed to 'Mushroom Stew'__
+    * ____
 
 ## FIXES
-* flint tipped arrows
-* feathered arrows on bow, crossbow
-* tadpole bucket water fix
-* porkchop texture fix
-* cooked porkchop texture fix
-* cooked salmon texture fix
-* iron sided lanterns
-* crimson nylium top coloration 
-* warped nylium top coloration 
-* mirrored glistening melon slice
-* proper tripwire hook model
-* smoker, blast furnace off center fix
-* no y-fighting sandstone, red sandstone walls
-* pumpkin, carved pumpkin, melon block bottom texture
-* melon block bottom texture
-* crafting table bottom texture
-* smoker top coloring issue
-* blast furnace bottom texture
-* smoker wood coloration texture
-* lectern bottom texture
-* stonecutter bottom, top texture
-* mob spawner bottom texture
-* proper door model wraps with handles, hinges
-* proper trapdoor model wraps with handles, hinges
-* alligned amyethyst bud in GUI
-* alligned torchflower seeds in GUI
+* __Flint Tipped Arrows__
+    * ____
+* __Feathered Arrows on Bow, Crossbow__
+    * ____
+* __Tadpole Bucket Water Fix__
+    * ____
+* __Porkchop Texture Fix__
+    * ____
+* __Cooked Porkchop Texture Fix__
+    * ____
+* __Cooked Salmon Texture Fix__
+    * ____
+* __Iron Sided Lanterns__
+    * ____
+* __Crimson Nylium Top Coloration__
+    * ____
+* __Warped Nylium Top Coloration__
+    * ____
+* __Mirrored Glistening Melon Slice__
+    * ____
+* __Proper Tripwire Hook Model__
+    * ____
+* __Smoker, Blast Furnace Off Center Fix__
+    * ____
+* __No Y-Fighting Sandstone, Red Sandstone Walls__
+    * ____
+* __Pumpkin, Carved Pumpkin, Melon Block Bottom Texture__
+    * ____
+* __Melon Block Bottom Texture__
+    * ____
+* __Crafting Table Bottom Texture__
+    * ____
+* __Smoker Top Coloring Issue__
+    * ____
+* __Blast Furnace Bottom Texture__
+    * ____
+* __Smoker Wood Coloration Texture__
+    * ____
+* __Lectern Bottom Texture__
+    * ____
+* __Stonecutter Bottom, Top Texture__
+    * ____
+* __Mob Spawner Bottom Texture__
+    * ____
+* __Proper Door Model Wraps with Handles, Hinges__
+    * ____
+* __Proper Trapdoor Model Wraps with Handles, Hinges__
+    * ____
+* __Aligned Amethyst Bud in GUI__
+    * ____
+* __Aligned Torchflower Seeds in GUI__
+    * ____
