@@ -45,9 +45,9 @@
 * __Daylight Detector__
     * _retexture with blockstate indication_
 * __Hopper__
-    * _corrected texture mapping with <sup>"facing"</sup> blockstate indication_
+    * _corrected texture mapping with blockstate indication_ <sup>"facing"</sup>
 * __Dropper__
-    * _color distinct texture with <sup>"facing"</sup> blockstate indication_
+    * _color distinct texture with blockstate indication_ <sup>"facing"</sup>
 * __Dispenser__
     * _color distinct texture with <sup>"facing"</sup> blockstate indication_
 * __Note Block__
