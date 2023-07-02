@@ -2,13 +2,15 @@
 
 
 ## REDSTONE CHANGES
-* shinier rail metal
-* new button textures with blockstate indicating redstone indentations
-* new pressure plate textures with blockstate indicating redstone indentations
-* smooth levers with blockstate indicating redstone indentation
-* slime on side wood of sticky pistons with mossy cobble sides
-* target blocks with blockstate indicating levels
+* __Minecart Rail__ _(all types)_
+> all metal on rails is much shinier
+* button retextures with blockstate indicating redstone indentations
+* pressure plate retextures with blockstate indicating redstone indentations
+* lever retexture with blockstate indicating redstone indentations
+* sticky piston unique textures for all sides
 * pistons with blockstate indication
+* static 
+* target blocks with blockstate indicating levels
 * observer with blockstate indication
 * nest with blockstate indicating honey levels
 * hive with blockstate indicating honey levels
