@@ -45,13 +45,13 @@
 * __Daylight Detector__
     * _retexture with blockstate indication_
 * __Hopper__
-    * _corrected texture mapping with <sup>"facing"<sup> blockstate indication_
+    * _corrected texture mapping with <sup>"facing"</sup> blockstate indication_
 * __Dropper__
-    * _color distinct texture with <sup>"facing"<sup> blockstate indication_
+    * _color distinct texture with <sup>"facing"</sup> blockstate indication_
 * __Dispenser__
-    * _color distinct texture with <sup>"facing"<sup> blockstate indication_
+    * _color distinct texture with <sup>"facing"</sup> blockstate indication_
 * __Note Block__
-    * _retexture with <sup>"note", "instrument", "powered"<sup> blockstate indication_
+    * _retexture with <sup>"note", "instrument", "powered"</sup> blockstate indication_
 
 ## ITEMS
 * 3D flower pot
