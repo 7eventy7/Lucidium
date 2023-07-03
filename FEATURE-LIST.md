@@ -51,7 +51,7 @@
 * __Note Block__
     * _retexture with blockstate indication_ <sup>"note", "instrument", "powered"</sup>
 
-## ITEMS
+## ITEM CHANGES
 * __Changed from Sprite to 3D__
     * _Bell_
     * _Cauldron_
@@ -124,15 +124,14 @@
     * _Gold Ingot, Golden Nugget_
     * _Golden Apple, Golden Carrot_
     * _Raw Gold_
-## BLOCK TEXTURE / MODEL  CHANGES
+
+## BLOCK TEXTURE / MODEL CHANGES
 * __Dragon Egg__
     * _retexture with proper model-hitbox alignment_
 * __Spore Blossom__
     * _retexture edges to look more flowery_
 * __Ancient Debris__
-    * _retexture with far greater blending_
-* __Chest, Trapped Chest__
-    * _retexture darkened and smoothened_
+    * _recolor with far greater blending_
 * __Brown Loom Leather__
     * ____
 * __Distance 7 Dying Leaves__
@@ -207,72 +206,80 @@
     * ____
 * __Nether Wart Age 0-3 Textures__
     * ____
-
-## BLOCK VARIATIONS
-* __Bricks__
-    * ____
-* __Crying Obsidian__
-    * ____
-* __Birch Log__
-    * ____
-* __Gravel__
-    * ____
-* __Terracotta__
-    * ____
-* __Colored Terracotta__
-    * ____
-* __Stone__
-    * ____
-* __Red Mushroom Block__
-    * ____
-* __Granite__
-    * ____
-* __Andesite__
-    * ____
-* __Smoother Diorite__
-    * ____
-* __End Stone__
-    * ____
-* __Bookshelf__
-    * ____
-* __Chiseled Bookshelf__
+* __Unobtrusive Fire & Soulfire__
     * ____
 
-## DOUBLE SLABS
-* __Quartz__
-    * ____
-* __Cut Red Sandstone__
-    * ____
-* __Cut Sandstone__
-    * ____
-* __Polished Andesite__
-    * ____
-* __Polished Granite__
-    * ____
-* __Polished Diorite__
-    * ____
-* __Polished Blackstone__
-    * ____
-* __Polished Deepslate__
-    * ____
+* __Block Variations__
+    * _Bricks_ (4)
+    * _Birch Log_ (5)
+    * _End Stone_ (6)
+    * _Crying Obsidian_ (6)
+    * _Red Mushroom Block_ (12)
+    * _Gravel_ (16)
+    * _Stone_ (16)
+    * _Granite_ (16)
+    * _Andesite_ (16)
+    * _Diorite_ (16)
+    * _Terracotta_ (all colors) (16)
+    * _Bookshelf_ (16)
+    * _Chiseled Bookshelf_ (10)
+
+* __Double Slabs__
+    * _Quartz_
+    * _Cut Sandstone_
+    * _Cut Red Sandstone_
+    * _Polished Andesite_
+    * _Polished Granite_
+    * _Polished Diorite_
+    * _Polished Blackstone_
+    * _Polished Deepslate_
+
 
 ## ENTITY
-* __Brown Saddles for Horse, Donkey, Mule, Strider, Pig__
-    * ____
-* __Torn Zombie Clothes__
-    * ____
-* __Proper Iron Golem Recolor__
-    * ____
-* __Zombie Villager Black Eyes Like Zombies__
-    * ____
-* __Shulker Bottom Lip Darker Coloring__
-    * ____
-* __Jappa Styled Creeper__
-    * ____
-* __Proper Black Cat__
-    * ____
-* __Crying Ghasts__
-    * ____
+* __Horse, Donkey, Mule, Strider, Ravager, Pig__
+    * _recolor with brown leather saddles_
+* __Cow, Red Mooshroom, Brown Mooshroom__
+    * _retexture spots to be consistent across model_
+* __Llama, Donkey, Mule__
+    * _retexture chest to be consistent with block_
+* __Zombie__
+    * _retexture with proper ripped clothes_
+* __Iron Golem__
+    * _recolor to be consistent with iron_
+* __Zombie Villager__
+    * _recolors eyes to be black and consistent with zombies_
+* __Shulker__
+    * _recolor darkened bottom lip_
+* __Creeper__
+    * _retexture more muted and less static_
+* __Ghast__
+    * _retexture to add tears to face_
+* __Blaze__
+    * _recolor with greater dithering_
+* __Guardian, Elder Guardian__
+    * _retexture back of eye for culling_
+* __Witch__
+    * _retexture with greater dithering and purpler robes_
+
+* __Beacon Beam__
+    * _retexture to be pixel consistent_
+* __End Crystal__
+    * _retexture to match bedrock block_
+* __Chest, Trapped Chest, Chest Boat__
+    * _retexture darkened with dithering_
+* __Hanging Sign__ (all types)
+    * _retexture beam to match log type_
+* __Bamboo Sign__
+    * _retexture post to match log type_
+* __Elytra__
+    * _retexture to match netherite armor_
+* __Shield__
+    * _recolor handle with greater dithering_
+* __Arrow, Tipped Arrow__
+    * _recolor arrowhead to match flint recipe_
+* __Arrow, Tipped Arrow__
+    * _recolor with greater saturation_
+
 
 ## GUI
 * __Slightly Smaller Crosshair__
@@ -301,19 +308,9 @@
     * ____
 * __Empty Armor Slot Parity__
     * ____
-
-## ASSORTED
-* __New 'Kong' Painting__
-    * ____
-* __White Beacon Beam__
-    * ____
-* __Netherite Elytra Wings__
-    * ____
-* __Unobtrusive Fire & Soulfire__
+* __No Vignette__
     * ____
 * __Minimal Weather Particles__
-    * ____
-* __No Vignette__
     * ____
 * __Volume Adjustments__
     * ____
