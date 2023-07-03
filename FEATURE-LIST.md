@@ -73,9 +73,6 @@
     * _Glass Pane_ (all colors)
     * _Banner Pattern_ (all variants)
     * _Gunpowder, Sugar, Glowstone Dust_
-* __Warning Borders__
-    * _Infested Blocks_ (all variants)
-    * _Waxed Copper Blocks, Stairs, Slabs_ (all variants)
 * __Consistency Retextures__
     * _Smithing Template Netherite Upgrade_
     * _Smithing Template Coast Armor Trim_
@@ -124,6 +121,9 @@
     * _Gold Ingot, Golden Nugget_
     * _Golden Apple, Golden Carrot_
     * _Raw Gold_
+* __Warning Borders__
+    * _Infested Blocks_ (all variants)
+    * _Waxed Copper Blocks, Stairs, Slabs_ (all variants)
 
 ## BLOCK TEXTURE / MODEL CHANGES
 * __Dragon Egg__
@@ -282,48 +282,52 @@
 
 
 ## GUI
-* __Slightly Smaller Crosshair__
-    * ____
-* __Options Menu Background__
-    * ____
-* __World Selection Background__
-    * ____
-* __Custom 4K Menu Panorama__
-    * ____
-* __HD Minecraft Java Logo__
-    * ____
-* __Royal Styled Menu Buttons__
-    * ____
+* __Crosshair__
+    * _retexture to be a bit smaller_
+* __Options Menu, World Selection__
+    * _retexture background to be darker and muddy_
+* __Menu Buttons__
+    * _retexture to emphasize highlight and match background_
+* __Hotbar__
+    * _retexture to appear bolder with no dithering_
+* __Container GUI__
+    * _retexture to be darker and more visually pleasing_
 * __Improved Vanilla Icons__
-    * ____
-* __Hotbar Redesigned__
-    * ____
-* __Container GUI Redesigned__
-    * ____
-* __Smoother Font__
-    * ____
-* __Added Secret Splash Texts__
-    * ____
-* __Smaller Boss Bars__
-    * ____
-* __Empty Armor Slot Parity__
-    * ____
-* __No Vignette__
-    * ____
-* __Minimal Weather Particles__
-    * ____
-* __Volume Adjustments__
-    * ____
+    * __
+* __Global Font__
+    * _changed global font t_
+* __Splash Texts__
+    * _added various secret splash texts_
+* __Boss Bars__
+    * _retextured to drastically reduce size_
+* __Empty Armor Slot__
+    * _retexture to be consistent with armor shapes_
+* __Vignette__
+    * _removed texture entirely_
+* __Weather Particles__
+    * _retexture to reduce the density of rain and snow_
 
-## LANGUAGE
-* __USA English Name of 'Steak' Changed to 'Cooked Beef'__
-    * ____
-* __British English Name of 'Steak' Changed to 'Cooked Beef'__
-    * ____
-* __British English Name of 'Roast Chicken' Changed to 'Cooked Chicken'__
-    * ____
-* __British English Name of 'Mushroom Soup' Changed to 'Mushroom Stew'__
-    * ____
+## LOWER VOLUME ADJUSTMENTS
+* __Rain__
+* __Fire__
+* __Water__
+* __Cow__
+* __Nether Portal__
+* __Endermen__
+* __Villager__
+* __Zombie__
+* __Zombified Piglin__
+* __Piston, Sticky Piston__
+* __Minecart__ (all variants)
+
+
+## LANGUAGE CHANGES
+* __USA English__
+    * _Steak -> Cooked Beef_
+* __British English'__
+    * _Steak -> Cooked Beef_
+    * _Roast Chicken -> Cooked Chicken_
+    * _Mushroom Soup -> Mushroom Stew_
 
 ## FIXES
 * __Flint Tipped Arrows__
