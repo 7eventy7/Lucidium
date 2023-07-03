@@ -52,170 +52,87 @@
     * _retexture with blockstate indication_ <sup>"note", "instrument", "powered"</sup>
 
 ## ITEMS
-* __3D Flower Pot__
-    * ____
-* __3D Bell__
-    * ____
-* __3D Cauldron__
-    * ____
-* __3D Hoppers__
-    * ____
-* __3D Levers__
-    * ____
-* __3D Minecart Variants__
-    * ____
-* __Visible Glass Pane__
-    * ____
-* __Visible Waxed Copper__
-    * ____
-* __Flat Trapdoors__
-    * ____
-* __Flat Dragon Egg__
-    * ____
-* __Flat Beds__
-    * ____
-* __Improved Ghast Tear__
-    * ____
-* __Improved Sea Pickle__
-    * ____
-* __Consistent Smithing Templates__
-    * ____
-* __Square Boats__
-    * ____
-* __Better Frogspawn__
-    * ____
-* __Brown Leather Shears__
-    * ____
-* __Improved Fresh Iron Nugget__
-    * ____
-* __Fresh Book, Enchanted Book, Book and Quill__
-    * ____
-* __Improved Flint and Steel__
-    * ____
-* __Azalea Sprite__
-    * ____
-* __Flowering Azalea Sprite__
-    * ____
-* __Spore Blossom Sprite__
-    * ____
-* __Dripleaf Sprite__
-    * ____
-* __Small Dripleaf Sprite__
-    * ____
-* __Gold Armor Recolor__
-    * ____
-* __Gold Tools Recolor__
-    * ____
-* __Gold Ingot Recolor__
-    * ____
-* __Golden Apple Recolor__
-    * ____
-* __Gold Nugget Recolor__
-    * ____
-* __Golden Carrot Recolor__
-    * ____
-* __Raw Gold Recolor__
-    * ____
-* __Clock Recolor__
-    * ____
-* __Shinier Compass__
-    * ____
-* __Square Cake__
-    * ____
-* __Infested Stone Variants__
-    * ____
-* __Netherite Elytra__
-    * ____
-* __Distinct Dyes__
-    * ____
-* __Distinct Banner Patterns__
-    * ____
-* __Unique Gunpowder__
-    * ____
-* __Unique Sugar__
-    * ____
-* __Unique Glowstone Dust__
-    * ____
-* __Unique Tall Flowers__
-    * ____
-* __Obvious Spawn Eggs__
-    * ____
-* __Less Yellow Wheat__
-    * ____
-* __Bone Colored Bonemeal__
-    * ____
-* __Bone Colored Bone__
-    * ____
-* __Fresh Nether Wart__
-    * ____
-* __Smooth Stone Repeater__
-    * ____
-* __Smooth Stone Comparator__
-    * ____
-* __Acacia Sapling Corrective Bark Coloring__
-    * ____
-* __Dark Oak Sapling Corrective Bark Coloring__
-    * ____
-* __Less Yellow Blaze Rod__
-    * ____
-* __Less Yellow Blaze Powder__
-    * ____
-* __Fresh Barrier Block__
-    * ____
-* __Fresh Void Structure Block__
-    * ____
-* __Centered Music Discs__
-    * ____
-* __Darker Melon Seed__
-    * ____
-* __Properly Colored Egg__
-    * ____
-* __Consistent Doors__
-    * ____
-* __Sword-less Square Item Frame__
-    * ____
-* __Sword-less Square Glow Item Frame__
-    * ____
-* __Proper Painting__
-    * ____
-
-## LOW DURABILITY TOOLS AND WEAPONS WARNINGS
-* __Golden Tools, Weapons__
-    * ____
-* __Diamond Tools, Weapons__
-    * ____
-* __Wooden Tools, Weapons__
-    * ____
-* __Stone Tools, Weapons__
-    * ____
-* __Iron Tools, Weapons__
-    * ____
-* __Netherite Tools, Weapons__
-    * ____
-* __Bow, Crossbow__
-    * ____
-* __Shears__
-    * ____
-* __Flint and Steel__
-    * ____
-* __Elytra__
-    * ____
-* __Fishing Rod__
-    * ____
-
-## BLOCK TEXTURES
-* __3D Iron Bars__
-    * ____
-* __Dragon Egg Retexture__
-    * ____
-* __Sniffer Egg Retexture__
-    * ____
-* __Flowery Spore Blossom__
-    * ____
-* __Better Ancient Debris__
-    * ____
-* __Smoother Chest, Trapped Chest__
-    * ____
+* __Changed from Sprite to 3D__
+    * _Bell_
+    * _Cauldron_
+    * _Hopper_
+    * _Lever__
+    * _Minecart_ (all variants)
+    * _Torch_ (all variants)
+* __Changed from 3D to Sprite__
+    * _Bed_ (all colors)
+    * _Trapdoor_ (all variants)
+    * _Dragon Egg_
+    * _Azalea, Flowering Azalea_
+    * _Dripleaf, Small Dripleaf_
+    * _Spore Blossom_
+* __Distinct Retextures__
+    * _Iron Nugget_
+    * _Spawn Egg_ (all mobs)
+    * _Dye_ (all colors)
+    * _Glass Pane_ (all colors)
+    * _Banner Pattern_ (all variants)
+    * _Gunpowder, Sugar, Glowstone Dust_
+* __Warning Borders__
+    * _Infested Blocks_ (all variants)
+    * _Waxed Copper Blocks, Stairs, Slabs_ (all variants)
+* __Consistency Retextures__
+    * _Smithing Template Netherite Upgrade_
+    * _Smithing Template Coast Armor Trim_
+    * _Boat, Chest Boat_ (all variants)
+    * _Door_ (all variants)
+    * _Book, Enchanted Book, Book and Quill_
+    * _Dark Oak Sapling, Acacia Sapling_
+    * _Music Disc_ (all variants)
+    * _Tall Flower_ (all variants)
+    * _Sniffer Egg_
+    * _Compass_
+    * _Shears_
+    * _Cake_
+* __Updated Retextures__
+    * _Barrier Block, Void Structure Block_
+    * _Item Frame, Glow Item Frame_
+    * _Repeater, Comparator_
+    * _Flint and Steel_
+    * _Nether Wart_
+    * _Ghast Tear_
+    * _Sea Pickle_
+    * _Frogspawn_
+    * _Painting_
+    * _Elytra_
+    * _Clock_
+* __Low Durability Warnings__
+    * _Pickaxe_ (all variants)
+    * _Axe_ (all variants)
+    * _Shovel_ (all variants)
+    * _Hoe_ (all variants)
+    * _Sword_ (all variants)
+    * _Helmet_ (all variants)
+    * _Bow, Crossbow_
+    * _Flint and Steel, Shears_
+    * _Fishing Rod_
+    * _Elytra_
+* __Texture Recolors__
+    * _Blaze Rod, Blaze Powder_
+    * _Bone, Bonemeal_
+    * _Melon Seed_
+    * _Wheat_
+    * _Egg_
+* __Saturated Gold Recolors__
+    * _Helmet, Chestplate, Leggings, Boots_
+    * _Pickaxe, Axe, Shovel, Hoe, Sword_
+    * _Gold Ingot, Golden Nugget_
+    * _Golden Apple, Golden Carrot_
+    * _Raw Gold_
+## BLOCK TEXTURE / MODEL  CHANGES
+* __Dragon Egg__
+    * _retexture with proper model-hitbox alignment_
+* __Spore Blossom__
+    * _retexture edges to look more flowery_
+* __Ancient Debris__
+    * _retexture with far greater blending_
+* __Chest, Trapped Chest__
+    * _retexture darkened and smoothened_
 * __Brown Loom Leather__
     * ____
 * __Distance 7 Dying Leaves__
