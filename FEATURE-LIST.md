@@ -132,82 +132,64 @@
     * _retexture edges to look more flowery_
 * __Ancient Debris__
     * _recolor with far greater blending_
-* __Brown Loom Leather__
-    * ____
-* __Distance 7 Dying Leaves__
-    * ____
-* __Smoother Wool__
-    * ____
-* __Gradual Sided Moistening Farmland__
-    * ____
-* __Gradual Breaking Anvil Sides__
-    * ____
-* __Less Yellow Glowstone__
-    * ____
-* __Brighter Pearlescent Froglight__
-    * ____
-* __Dark Oak Soul Fire Campfire__
-    * ____
-* __Dark Oak Soul Torch__
-    * ____
-* __Beacon Animation with Fancy Glass__
-    * ____
-* __Smoother Diorite__
-    * ____
-* __Less Yellow Hayblock__
-    * ____
-* __Darker Non-Static Bedrock__
-    * ____
-* __Unobtrusive Scaffolding__
-    * ____
-* __Clear Colored Glass__
-    * ____
-* __Clear Tinted Glass__
-    * ____
-* __Tileable Prismarine Bricks__
-    * ____
-* __No Eye on Front of Ender Chest__
-    * ____
-* __New Bedrock on End Crystal__
-    * ____
-* __Low Grass, Path, Mycelium, Snow Grass, Podzol__
-    * ____
-* __Jappa Styled Dirt, Coarse Dirt, Rooted Dirt__
-    * ____
-* __Melon Stem Changed to Respective Seed Color__
-    * ____
-* __Pumpkin Stem Changed to Respective Seed Color__
-    * ____
-* __Recolored Melon to Be Less Yellow__
-    * ____
-* __Properly Colored Lit Black Candle__
-    * ____
-* __Connected Sandstone Stairs, Slabs, Walls__
-    * ____
-* __Connected Red Sandstone Stairs, Slabs, Walls__
-    * ____
-* __Smooth Stone Glisten Texture Rework__
-    * ____
-* __Properly Colored Glazed Terracotta with Green Creeper__
-    * ____
-* __Bookshelf Dedicated Top & Bottom Texture__
-    * ____
+* __Loom__
+    * _recolor to be consistent with leather and added bottom/side textures_
+* __Wool__ (all colors)
+    * _retexture to improve quality of dithering_
+* __Anvil, Chipped Anvil, Damaged Anvil__
+    * _added side textures_
+* __Glowstone__
+    * _recolor to improve saturation_
+* __Pearlescent Froglight__
+    * _recolor to improve saturation_
+* __Soul Campfire__
+    * _retexture with dark oak wood and soul sand_
+* __Soul Torch__
+    * _retexture with dark oak wood_
+* __Beacon__
+    * _animated retexture with fancy glass retexture_
+* __Diorite__
+    * _retexture to address dithering and improve aesthetic_
+* __Hay Bale__
+    * _recolor for consistency_
+* __Bedrock__
+    * _recolor to decrease static and improve aesthetic_
+* __End Crystal__
+    * _retexture for consistency with bedrock_
+* __Scaffolding__
+    * _retexture to remove center area and improve visibility_
+* __Stained Glass, Tinted Glass__ (all colors)
+    * _retexture to remove border and improve tiling_
+* __Prismarine Bricks__
+    * _retexture to add connecting lines and improve tiling_
+* __Ender Chest__
+    * _retexture to remove eye from front_
+* __Grass, Path, Mycelium, Snow Grass, Podzol__
+    * _retexture to make surface material extend lower on side_
+* __Dirt, Coarse Dirt, Rooted Dirt__
+    * _retexture to decrease static and improve dithering_
+* __Melon Stem, Pumpkin Stem__
+    * _recolor for consistency with seed color_
+* __Melon__
+    * _recolor to increase saturation and ripeness_
+* __Black Candle__
+    * _recolor for consistency of blockstate_ <sup>"lit=true"</sup>
+* __Sandstone Stair, Red Sandstone Stair__
+    * _retexture for consistency on every step_
+* __Sandstone Slab, Red Sandstone Slab__
+    * _retexture for consistency with top border_
+* __Sandstone Wall, Red Sandstone Wall__
+    * _retexture post for consistency with top border_
+* __Smooth Stone. Smooth Stone Slab__
+    * _retexture to improve border highlights/shadows_
+* __Glazed Terracotta__ (all colors)
+    * _recolor to match each color and theme_
+* __Bookshelf__
+    * _added bottom/top textures_
 * __Consistent Beautiful Flowers__
-    * ____
-* __Weeping Vine Age 25 Texture__
-    * ____
-* __Twisting Vine Age 25 Texture__
-    * ____
-* __Kelp Age 25 Texture__
-    * ____
-* __Cave Vine Age 25 Texture__
-    * ____
-* __Chorus Flower Age 0-5 Textures__
-    * ____
-* __Nether Wart Age 0-3 Textures__
-    * ____
-* __Unobtrusive Fire & Soulfire__
-    * ____
+    * __
+* __Fire, Soul Fire__
+    * _retexture to reduce height for visibility_
 
 * __Block Variations__
     * _Bricks_ (4)
@@ -234,6 +216,17 @@
     * _Polished Blackstone_
     * _Polished Deepslate_
 
+## FLORA BLOCKSTATE ADDITIONS
+* __Farmland__
+    * _added side texture and between blockstate textures_ <sup>"moisture=0-7"</sup>
+* __Leaves__ (all variants)
+    * _texture added for dying blockstate_ <sup>"persistent=false", "distance=7"</sup>
+* __Weeping Vine, Twisting Vine, Cave Vine, Kelp__
+    * _texture added for oldest blockstate_ <sup>"age=25"</sup>
+* __Chorus Flower__
+    * _texture added for blockstate_ <sup>"age=0-5"</sup>
+* __Nether Wart__
+    * _texture added for blockstate_ <sup>"age=0-3"</sup>
 
 ## ENTITY
 * __Horse, Donkey, Mule, Strider, Ravager, Pig__
@@ -286,14 +279,16 @@
     * _retexture to be a bit smaller_
 * __Options Menu, World Selection__
     * _retexture background to be darker and muddy_
-* __Menu Buttons__
+* __Menu Buttons, Selection Arrows__
     * _retexture to emphasize highlight and match background_
-* __Hotbar__
-    * _retexture to appear bolder with no dithering_
-* __Container GUI__
+* __Container GUI, Inventory GUI__
     * _retexture to be darker and more visually pleasing_
-* __Improved Vanilla Icons__
-    * __
+* __Hotbar Frame__
+    * _retexture to appear bolder with no dithering_
+* __Hotbar Icons__
+    * _retexture hotbar icons with greater dithering_
+* __Stats Icons__
+    * _retexture stats icons for consistency_
 * __Global Font__
     * _changed global font t_
 * __Splash Texts__
