@@ -37,7 +37,7 @@
 * __Cauldron__ (water, lava, powder snow)
     * _distinct retextures with blockstate indication_ <sup>"level"</sup>
 * __Furnace, Blast Furnace, Smoker__
-    * _animated distinct retextures with blockstate indication_ <sup>"lit"</sup>
+    * _animated retextures with dedicated bottom textures and blockstate indication_ <sup>"lit"</sup>
 * __Redstone Lamp__
     * _animated retexture_
 * __Daylight Detector__
@@ -78,10 +78,13 @@
     * _Smithing Template Coast Armor Trim_
     * _Boat, Chest Boat_ (all variants)
     * _Door_ (all variants)
+    * _Glistering Melon Slice_
     * _Book, Enchanted Book, Book and Quill_
     * _Dark Oak Sapling, Acacia Sapling_
     * _Music Disc_ (all variants)
     * _Tall Flower_ (all variants)
+    * _Porkchop Texture, Cooked Porkchop_
+    * _Cooked Salmon_
     * _Sniffer Egg_
     * _Compass_
     * _Shears_
@@ -121,6 +124,11 @@
     * _Gold Ingot, Golden Nugget_
     * _Golden Apple, Golden Carrot_
     * _Raw Gold_
+* __GUI Alignment Changes__
+    * _Torchflower Seeds_
+    * _Amethyst Bud_
+    * _Tadpole Bucket_
+
 * __Warning Borders__
     * _Infested Blocks_ (all variants)
     * _Waxed Copper Blocks, Stairs, Slabs_ (all variants)
@@ -171,7 +179,9 @@
 * __Melon Stem, Pumpkin Stem__
     * _recolor for consistency with seed color_
 * __Melon__
-    * _recolor to increase saturation and ripeness_
+    * _recolor to increase saturation with added dedicated bottom texture_
+* __Pumpkin, Carved Pumpkin__
+    * _added dedicated bottom texture_
 * __Black Candle__
     * _recolor for consistency of blockstate_ <sup>"lit=true"</sup>
 * __Sandstone Stair, Red Sandstone Stair__
@@ -186,10 +196,36 @@
     * _recolor to match each color and theme_
 * __Bookshelf__
     * _added bottom/top textures_
-* __Consistent Beautiful Flowers__
-    * __
 * __Fire, Soul Fire__
     * _retexture to reduce height for visibility_
+* __Lantern__
+    * _retexture to be consistent with soul lanterns_
+* __Crimson Nylium, Warped Nylium__
+    * _recolor to adjust nylium saturation with lower side textures_
+* __Tripwire Hook__
+    * _retexture to correct visual connection issues_
+* __Crafting Table, Lectern, Stonecutter__
+    * _added dedicated bottom texture_
+* __Mob Spawner__
+    * _added dedicated bottom/top texture_
+* __Door, Trapdoor__ (all variants)
+    * _retexture to correct mapping to be consistent with highlights/shadows_
+* __Painting__
+    * _added dedicated back texture_
+* __Blue Orchid, Azure Bluet, Oxeye Daisy__
+    * _recolor to increase saturation and improve aesthetic_
+* __Lily of the Valley__
+    * _retexture to be consistent with real life counterpart_
+* __Allium__
+    * _retexture leaves to be consistent with other flowers_
+* __Cornflower__
+    * _retexture to differentiate from other flowers_
+* __Tulip__ (all colors)
+    * _retexture to be consistent with other flower sizes_
+* __Lily Pad__
+    * _retexture to be aligned in the middle of model_
+* __Glow Lichen__
+    * _retexture to decrease static and improve aesthetic_
 
 * __Block Variations__
     * _Bricks_ (4)
@@ -270,9 +306,8 @@
     * _recolor handle with greater dithering_
 * __Arrow, Tipped Arrow__
     * _recolor arrowhead to match flint recipe_
-* __Arrow, Tipped Arrow__
+* __Spectral Arrow__
     * _recolor with greater saturation_
-
 
 ## GUI
 * __Crosshair__
@@ -299,8 +334,24 @@
     * _retexture to be consistent with armor shapes_
 * __Vignette__
     * _removed texture entirely_
-* __Weather Particles__
-    * _retexture to reduce the density of rain and snow_
+
+## PARTICLES
+* __Proper Break Particles__
+    * _Player Head, Mob Head_ (all variants)
+    * _Bed_ (all colors)
+    * _Banner_ (all colors)
+    * _Bamboo Stalk_
+    * _Chest, Trapped Chest, Ender Chest_
+    * _Cocoa Beans_
+    * _Sea Pickle_
+    * _Flower Pot, Decorated Pot_
+    * _End Rod. Lightning Rod_
+    * _Lantern, Soul Lantern_
+    * _Tripwire Hook_
+    * _Turtle Egg_
+
+* __Weather Particles Reduction__
+    * _Rain, Snow_
 
 ## LOWER VOLUME ADJUSTMENTS
 * __Rain__
@@ -323,57 +374,3 @@
     * _Steak -> Cooked Beef_
     * _Roast Chicken -> Cooked Chicken_
     * _Mushroom Soup -> Mushroom Stew_
-
-## FIXES
-* __Flint Tipped Arrows__
-    * ____
-* __Feathered Arrows on Bow, Crossbow__
-    * ____
-* __Tadpole Bucket Water Fix__
-    * ____
-* __Porkchop Texture Fix__
-    * ____
-* __Cooked Porkchop Texture Fix__
-    * ____
-* __Cooked Salmon Texture Fix__
-    * ____
-* __Iron Sided Lanterns__
-    * ____
-* __Crimson Nylium Top Coloration__
-    * ____
-* __Warped Nylium Top Coloration__
-    * ____
-* __Mirrored Glistening Melon Slice__
-    * ____
-* __Proper Tripwire Hook Model__
-    * ____
-* __Smoker, Blast Furnace Off Center Fix__
-    * ____
-* __No Y-Fighting Sandstone, Red Sandstone Walls__
-    * ____
-* __Pumpkin, Carved Pumpkin, Melon Block Bottom Texture__
-    * ____
-* __Melon Block Bottom Texture__
-    * ____
-* __Crafting Table Bottom Texture__
-    * ____
-* __Smoker Top Coloring Issue__
-    * ____
-* __Blast Furnace Bottom Texture__
-    * ____
-* __Smoker Wood Coloration Texture__
-    * ____
-* __Lectern Bottom Texture__
-    * ____
-* __Stonecutter Bottom, Top Texture__
-    * ____
-* __Mob Spawner Bottom Texture__
-    * ____
-* __Proper Door Model Wraps with Handles, Hinges__
-    * ____
-* __Proper Trapdoor Model Wraps with Handles, Hinges__
-    * ____
-* __Aligned Amethyst Bud in GUI__
-    * ____
-* __Aligned Torchflower Seeds in GUI__
-    * ____
