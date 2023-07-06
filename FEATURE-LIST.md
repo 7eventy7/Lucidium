@@ -176,6 +176,8 @@
     * _retexture to make surface material extend lower on side_
 * __Dirt, Coarse Dirt, Rooted Dirt__
     * _retexture to decrease static and improve dithering_
+* __TNT__
+    * _recolor to increase saturation and improve aesthetic_
 * __Melon Stem, Pumpkin Stem__
     * _recolor for consistency with seed color_
 * __Melon__
