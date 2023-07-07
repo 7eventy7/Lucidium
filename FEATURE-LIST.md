@@ -1,5 +1,6 @@
 # FULLY FLEDGED FEATURE LIST
 > Every retexture, improvement, fix and other change made in Lucidium!
+This list is not _entirely_ complete, please submit any issues on github!
 
 ## REDSTONE CHANGES
 * __Redstone Torch__
@@ -58,7 +59,8 @@
     * _Hopper_
     * _Lever__
     * _Minecart_ (all variants)
-    * _Torch_ (all variants)
+    * _Lantern, Soul Lantern_
+    * _Torch, Soul Torch, Redstone Torch_
 * __Changed from 3D to Sprite__
     * _Bed_ (all colors)
     * _Trapdoor_ (all variants)
@@ -86,6 +88,7 @@
     * _Porkchop Texture, Cooked Porkchop_
     * _Cooked Salmon_
     * _Sniffer Egg_
+    * _Chain_
     * _Compass_
     * _Shears_
     * _Cake_
@@ -200,8 +203,8 @@
     * _added bottom/top textures_
 * __Fire, Soul Fire__
     * _retexture to reduce height for visibility_
-* __Lantern__
-    * _retexture to be consistent with soul lanterns_
+* __Lantern, Soul Lantern__
+    * _retexture to be consistent with chain_
 * __Crimson Nylium, Warped Nylium__
     * _recolor to adjust nylium saturation with lower side textures_
 * __Tripwire Hook__
@@ -228,6 +231,10 @@
     * _retexture to be aligned in the middle of model_
 * __Glow Lichen__
     * _retexture to decrease static and improve aesthetic_
+* __Chain__
+    * _retexture to be consistent with the hitbox_
+* __Iron Bars__
+    * _retexture to be consistent with originaL iron color_
 
 * __Block Variations__
     * _Bricks_ (4)
