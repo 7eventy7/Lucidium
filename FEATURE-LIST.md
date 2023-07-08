@@ -120,6 +120,7 @@ This list is not _entirely_ complete, please submit any issues on github!
     * _Bone, Bonemeal_
     * _Melon Seed_
     * _Wheat_
+    * _Lead_
     * _Egg_
 * __Saturated Gold Recolors__
     * _Helmet, Chestplate, Leggings, Boots_
