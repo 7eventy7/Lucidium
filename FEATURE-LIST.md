@@ -92,10 +92,12 @@ This list is not _entirely_ complete, please submit any issues on github!
     * _Cake_
 * __Updated Retextures__
     * _Barrier Block, Void Structure Block_
+    * _Warped Fungus, Crimson Fungus_
     * _Item Frame, Glow Item Frame_
     * _Repeater, Comparator_
     * _Flint and Steel_
     * _Nether Wart_
+    * _Rabbit's Foot_
     * _Ghast Tear_
     * _Sea Pickle_
     * _Frogspawn_
@@ -130,7 +132,8 @@ This list is not _entirely_ complete, please submit any issues on github!
     * _Torchflower Seeds_
     * _Amethyst Bud_
     * _Tadpole Bucket_
-
+    * _Shield_
+    * _Banner_ (all colors & variants)
 * __Warning Borders__
     * _Infested Blocks_ (all variants)
     * _Waxed Copper Blocks, Stairs, Slabs_ (all variants)
@@ -330,7 +333,7 @@ This list is not _entirely_ complete, please submit any issues on github!
     * _retexture to be a bit smaller_
 * __Options Menu, World Selection__
     * _retexture background to be darker and muddy_
-* __Menu Buttons, Selection Arrows__
+* __Menu Buttons, Selection Arrows__ (supports mod-menu)
     * _retexture to emphasize highlight and match background_
 * __Container GUI, Inventory GUI__
     * _retexture to be darker and more visually pleasing_
