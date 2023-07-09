@@ -19,9 +19,7 @@ This list is not _entirely_ complete, please submit any issues on github!
     * _retexture with blockstate indication_ <sup>"levels"</sup>
 * __Observer__
     * _retexture with blockstate indication_ <sup>"powered"</sup>
-* __Bee Nest__
-    * _retexture with blockstate indication_ <sup>"honey_level"</sup>
-* __Bee Hive__
+* __Bee Nest, Bee Hive__
     * _retexture with blockstate indication_ <sup>"honey_level"</sup>
 * __Tripwire String__
     * _visible retexture with distinct blockstate indication_ <sup>"powered"</sup>
@@ -210,12 +208,20 @@ This list is not _entirely_ complete, please submit any issues on github!
     * _recolor to adjust nylium saturation with lower side textures_
 * __Tripwire Hook__
     * _retexture to correct visual connection issues_
-* __Crafting Table, Lectern, Stonecutter__
-    * _added dedicated bottom texture_
+* __Crafting Table__
+    * _retexture to improve highlights with dedicated top/bottom texture_
+* __Lectern, Stonecutter__
+    * _retexture to improve coloration with dedicated top/bottom texture_
+* __Fletching Table, Cartography Table__
+    * _retexture to improve consistency with dedicated side/bottom/top texture_
+* __Barrel__
+    * _retexture to improve coloration with reworked mapping_
 * __Mob Spawner__
     * _added dedicated bottom/top texture_
 * __Door, Trapdoor__ (all variants)
     * _retexture to correct mapping to be consistent with highlights/shadows_
+* __Command Block__ (all variants)
+    * _retexture to improve tiling and coloration _
 * __Painting__
     * _added dedicated back texture_
 * __Blue Orchid, Azure Bluet, Oxeye Daisy__
@@ -332,6 +338,8 @@ This list is not _entirely_ complete, please submit any issues on github!
     * _retexture to appear bolder with no dithering_
 * __Hotbar Icons__
     * _retexture hotbar icons with greater dithering_
+* __Creative Menu Tab Icons__
+    * _retexture background to be darker and muddy_
 * __Stats Icons__
     * _retexture stats icons for consistency_
 * __Global Font__
