@@ -249,6 +249,7 @@ This list is not _entirely_ complete, please submit any issues on github!
     * _Bricks_ (4)
     * _Birch Log_ (5)
     * _End Stone_ (6)
+    * _Cobblestone_ (6)
     * _Crying Obsidian_ (6)
     * _Red Mushroom Block_ (12)
     * _Gravel_ (16)
