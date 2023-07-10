@@ -291,12 +291,18 @@ This list is not _entirely_ complete, please submit any issues on github!
     * _retexture spots to be consistent across model_
 * __Llama, Donkey, Mule__
     * _retexture chest to be consistent with block_
+* __Villager__ (all professions)
+    * _recolor with brown leather clothing_
 * __Zombie__
     * _retexture with proper ripped clothes_
 * __Iron Golem__
     * _recolor to be consistent with iron_
 * __Zombie Villager__
     * _recolors eyes to be black and consistent with zombies_
+* __Skeleton__
+    * _retexture with cracked bones texture_
+* __Enderman__
+    * _retexture with more purple saturation_
 * __Shulker__
     * _recolor darkened bottom lip_
 * __Creeper__
@@ -307,8 +313,12 @@ This list is not _entirely_ complete, please submit any issues on github!
     * _recolor with greater dithering_
 * __Guardian, Elder Guardian__
     * _retexture back of eye for culling_
+* __Wandering Trader__
+    * _recolor with brown leather pants_
 * __Witch__
-    * _retexture with greater dithering and purpler robes_
+    * _retexture with greater dithering_
+* __Armorstand__
+    * _retexture to be consistent with smooth stone_
 
 * __Beacon Beam__
     * _retexture to be pixel consistent_
