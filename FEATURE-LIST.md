@@ -74,7 +74,6 @@ This list is not _entirely_ complete, please submit any issues on github!
     * _Banner Pattern_ (all variants)
     * _Gunpowder, Sugar, Glowstone Dust_
 * __Consistency Retextures__
-    * _Smithing Template Netherite Upgrade_
     * _Smithing Template Coast Armor Trim_
     * _Boat, Chest Boat_ (all variants)
     * _Door_ (all variants)
