@@ -71,6 +71,7 @@ This list is not _entirely_ complete, please submit any issues on github!
     * _Spawn Egg_ (all mobs)
     * _Dye_ (all colors)
     * _Glass Pane_ (all colors)
+    * _Music Disc_ (all variants)
     * _Banner Pattern_ (all variants)
     * _Gunpowder, Sugar, Glowstone Dust_
 * __Consistency Retextures__
@@ -80,7 +81,6 @@ This list is not _entirely_ complete, please submit any issues on github!
     * _Glistering Melon Slice_
     * _Book, Enchanted Book, Book and Quill_
     * _Dark Oak Sapling, Acacia Sapling_
-    * _Music Disc_ (all variants)
     * _Tall Flower_ (all variants)
     * _Porkchop Texture, Cooked Porkchop_
     * _Cooked Salmon_
@@ -101,6 +101,7 @@ This list is not _entirely_ complete, please submit any issues on github!
     * _Sea Pickle_
     * _Frogspawn_
     * _Painting_
+    * _Arrow_
     * _Elytra_
     * _Clock_
 * __Low Durability Warnings__
@@ -338,6 +339,18 @@ This list is not _entirely_ complete, please submit any issues on github!
     * _recolor arrowhead to match flint recipe_
 * __Spectral Arrow__
     * _recolor with greater saturation_
+
+* __Chainmail Armor__
+    * _recolor to be consistent with chains_
+* __Iron Armor__
+    * _retexture to adjust size of helmet elements_
+* __Gold Armor__
+    * _retexture to adjust size of helmet elements_
+* __Diamond Armor__
+    * _retexture to adjust size of helmet elements_
+* __Netherite Armor__
+    * _retexture to adjust size of helmet elements_
+
 
 ## GUI
 * __Crosshair__
