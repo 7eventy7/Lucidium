@@ -19,28 +19,32 @@
 > https://www.curseforge.com/minecraft/texture-packs/lucidium
 <hr>
 
-<a href="GALLERY.md"><img src="https://i.imgur.com/sZ0pG5D.png" alt="credits" height="50"></a>
+<img src="https://github.com/7eventy7/Lucidium/assets/75962770/fd9b3e30-a776-4f03-bc87-7d17f836ed9f" style="height: 50px;">
+
 
 > Check out individual and in-game comparisons of some of the changes featured in Lucidium!
 
 https://github.com/7eventy7/Lucidium/blob/main/GALLERY.md
 <hr>
 
-<a href="CREDITS.md"><img src="https://i.imgur.com/ihkCXTu.png" alt="credits" height="50"></a>
+<img src="https://github.com/7eventy7/Lucidium/assets/75962770/6a4b51a4-6e43-4b69-ab35-51db18ce293f" style="height: 50px;">
+
 
 > A complete list of all the projects and creators that help contribute assets used in Lucidium!
 
 https://github.com/7eventy7/Lucidium/blob/main/CREDITS.md
 <hr>
 
-<a href="FEATURE-LIST.md"><img src="https://i.imgur.com/8eAEL3p.png" alt="credits" height="50"></a>
+<img src="https://github.com/7eventy7/Lucidium/assets/75962770/65f69b58-3100-47f6-acb8-abea68c8cfd5" style="height: 50px;">
+
 
 > A fully fledged feature list describing everything that is included in the resource pack. All features are organized into categories based on what they change about the game. The list *should* be fully complete, however, if you notice any inconsistencies please raise an issue.
 
 https://github.com/7eventy7/Lucidium/blob/main/FEATURE-LIST.md
 <hr>
 
-<a href="LICENSE.md"><img src="https://i.imgur.com/PtNYlX3.png" alt="credits" height="50"></a>
+<img src="https://github.com/7eventy7/Lucidium/assets/75962770/51569b2a-05bc-449d-acac-18c47dcd27f0" style="height: 50px;">
+
 
 > This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
