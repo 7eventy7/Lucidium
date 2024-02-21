@@ -3,7 +3,7 @@
 
 ## A Vanilla Focused Minecraft Resource Pack
 
-![about](https://github.com/7eventy7/Lucidium/assets/75962770/48342f49-3103-4110-9358-7f369df3ce39)
+<img src="https://github.com/7eventy7/Lucidium/assets/75962770/48342f49-3103-4110-9358-7f369df3ce39" alt="about" style="height: 50px;">
 
 
 > Lucidium is a vanilla-like resource pack of tweaked assets, improvements to outdated textures, simplicity changes and parity fixes with the mission of maintaining the core feeling of the game throughout. With a focus on streamlining redstone design, the pack introduces new blockstate textures for various components, making complex contraptions simpler to create. Outdated textures have been refined, and inconsistencies have been addressed to ensure a cohesive and visually pleasing experience. Most of the default textures have not been altered to ensure that the base feel of the game we all love still shines through the various improvements. Every single change made in this pack, no matter how small, was meticulously toiled over until the perfect aesthetic was achieved. A reasonable amount of the textures, models, and artwork featured in this pack were not made by me; most of the assets that are changed have been heavily edited and curated to ensure consistency with the vanilla Minecraft experience.
