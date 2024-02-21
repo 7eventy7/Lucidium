@@ -75,6 +75,7 @@ This list is not _entirely_ complete, please submit any issues!
     * _Banner Pattern_ (all variants)
     * _Gunpowder, Sugar, Glowstone Dust_
 * __Consistency Retextures__
+    * _Sugar Cane_
     * _Smithing Template Coast Armor Trim_
     * _Boat, Chest Boat_ (all variants)
     * _Door_ (all variants)
@@ -185,6 +186,8 @@ This list is not _entirely_ complete, please submit any issues!
     * _recolor to increase saturation and improve aesthetic_
 * __Melon Stem, Pumpkin Stem__
     * _recolor for consistency with seed color_
+* __Sugarcane__
+    * _recolor more pale closer to real life_
 * __Melon__
     * _recolor to increase saturation with added dedicated bottom texture_
 * __Pumpkin, Carved Pumpkin__
