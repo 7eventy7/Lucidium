@@ -16,6 +16,13 @@ Lucidium is a vanilla-like resource pack of tweaked assets, improvements to outd
 > https://www.curseforge.com/minecraft/texture-packs/lucidium
 <hr>
 
+<img src="https://github.com/7eventy7/Lucidium/assets/75962770/65f69b58-3100-47f6-acb8-abea68c8cfd5" style="height: 50px;">
+
+> A fully fledged feature list describing everything that is included in the resource pack. All features are organized into categories based on what they change about the game. The list *should* be fully complete, however, if you notice any inconsistencies please raise an issue.
+
+https://github.com/7eventy7/Lucidium/blob/main/FEATURE-LIST.md
+<hr>
+
 <img src="https://github.com/7eventy7/Lucidium/assets/75962770/fd9b3e30-a776-4f03-bc87-7d17f836ed9f" style="height: 50px;">
 
 > Check out individual and in-game comparisons of some of the changes featured in Lucidium!
@@ -28,13 +35,6 @@ https://github.com/7eventy7/Lucidium/blob/main/GALLERY.md
 > A complete list of all the projects and creators that help contribute assets used in Lucidium!
 
 https://github.com/7eventy7/Lucidium/blob/main/CREDITS.md
-<hr>
-
-<img src="https://github.com/7eventy7/Lucidium/assets/75962770/65f69b58-3100-47f6-acb8-abea68c8cfd5" style="height: 50px;">
-
-> A fully fledged feature list describing everything that is included in the resource pack. All features are organized into categories based on what they change about the game. The list *should* be fully complete, however, if you notice any inconsistencies please raise an issue.
-
-https://github.com/7eventy7/Lucidium/blob/main/FEATURE-LIST.md
 <hr>
 
 <img src="https://github.com/7eventy7/Lucidium/assets/75962770/51569b2a-05bc-449d-acac-18c47dcd27f0" style="height: 50px;">
