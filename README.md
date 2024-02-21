@@ -7,16 +7,13 @@
 <hr>
 
 **Planet Minecraft**
-
 > https://www.planetminecraft.com/texture-pack/lucidium/
 
 **Modrinth**
-
 > https://modrinth.com/resourcepack/lucidium
 
 **Curseforge**
-
-https://www.curseforge.com/minecraft/texture-packs/lucidium
+> https://www.curseforge.com/minecraft/texture-packs/lucidium
 <hr>
 
 <a href="GALLERY.md"><img src="https://i.imgur.com/sZ0pG5D.png" alt="credits" height="50"></a>
