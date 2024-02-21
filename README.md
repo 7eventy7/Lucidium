@@ -1,8 +1,5 @@
 ![lucidium-title9](https://github.com/7eventy7/Lucidium/assets/75962770/d3be089e-ba98-41be-bdb4-cff89cc0cab2)
 
-
-## A Vanilla Focused Minecraft Resource Pack
-
 <img src="https://github.com/7eventy7/Lucidium/assets/75962770/48342f49-3103-4110-9358-7f369df3ce39" alt="about" style="height: 50px;">
 
 
