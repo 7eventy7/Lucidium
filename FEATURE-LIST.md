@@ -418,7 +418,7 @@ This list is not _entirely_ complete, please submit any issues!
 ## LANGUAGE CHANGES
 * __USA English__
     * _Steak -> Cooked Beef_
-* __British English'__
+* __British English__
     * _Steak -> Cooked Beef_
     * _Roast Chicken -> Cooked Chicken_
     * _Mushroom Soup -> Mushroom Stew_
