@@ -1,6 +1,0 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "block/variated/crying_obsidian/block/1"
-    }
-}

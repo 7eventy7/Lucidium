@@ -1,6 +1,0 @@
-{
-    "parent": "block/note_instrument",
-    "textures": {
-        "all": "block/note_block_basedrum_off"
-    }
-}

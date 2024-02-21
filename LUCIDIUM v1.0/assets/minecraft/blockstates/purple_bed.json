@@ -1,6 +1,0 @@
-{
-  "variants": {
-    "part=head": {"model": "minecraft:block/purple_bed_head"},
-    "part=foot": {"model": "minecraft:block/purple_bed_foot"}
-  }
-}

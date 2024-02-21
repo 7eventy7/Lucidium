@@ -1,8 +1,0 @@
-{
-	"parent": "block/cut_sandstone_slab_double",
-	"textures": {
-		"side": "block/cut_red_sandstone",
-		"top": "block/red_sandstone_top",
-		"particle": "block/cut_red_sandstone"
-	}
-}
