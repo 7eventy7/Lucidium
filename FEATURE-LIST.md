@@ -1,4 +1,4 @@
-# FULLY FLEDGED FEATURE LIST
+# FEATURE LIST
 > Every retexture, improvement, fix and other change made in Lucidium!
 This list is not _entirely_ complete, please submit any issues!
 
