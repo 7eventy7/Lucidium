@@ -9,6 +9,7 @@
 <a href="GALLERY.md"><img src="https://i.imgur.com/sZ0pG5D.png" alt="credits" height="50"></a>
 
 > Text about gallery
+<hr>
 https://github.com/7eventy7/Lucidium/blob/main/GALLERY.md
 <hr>
 
