@@ -1,3 +1,5 @@
+# GALLERY
+
 ![A - Cover](https://github.com/7eventy7/Lucidium/assets/75962770/792ea66b-5e57-4004-b899-065b0095bcdd)
 ![B - Item](https://github.com/7eventy7/Lucidium/assets/75962770/4c154180-efe6-45ee-a874-0a31e1746c86)
 ![C - Blocks](https://github.com/7eventy7/Lucidium/assets/75962770/8562a202-549e-40cf-a7fa-1bbad786c002)
