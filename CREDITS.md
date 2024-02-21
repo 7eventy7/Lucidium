@@ -1,3 +1,5 @@
+# CREDITS
+
 ### Some assets in Lucidium are available in separate packs from other incredible creators
 
 Please check out their amazing work!

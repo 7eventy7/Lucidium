@@ -1,6 +1,5 @@
-# FULLY FLEDGED FEATURE LIST
-> Every retexture, improvement, fix and other change made in Lucidium!
-This list is not _entirely_ complete, please submit any issues!
+# FEATURE LIST
+> Every retexture, improvement, fix and other change made in Lucidium. This list is not _entirely_ complete, please submit any issues!
 
 ## REDSTONE CHANGES
 * __Redstone Torch__

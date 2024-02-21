@@ -1,4 +1,6 @@
-# Terms of Use
+# TERMS OF USE
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
