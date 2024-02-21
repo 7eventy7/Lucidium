@@ -8,7 +8,7 @@
 
 <a href="GALLERY.md"><img src="https://i.imgur.com/sZ0pG5D.png" alt="credits" height="50"></a>
 
-> Text about gallery
+> Check out individual and in-game comparisons of some of the changes featured in Lucidium!
 
 https://github.com/7eventy7/Lucidium/blob/main/GALLERY.md
 <hr>
@@ -16,14 +16,20 @@ https://github.com/7eventy7/Lucidium/blob/main/GALLERY.md
 <a href="CREDITS.md"><img src="https://i.imgur.com/ihkCXTu.png" alt="credits" height="50"></a>
 
 > A complete list of all the projects and creators that help contribute assets used in Lucidium!
+
+https://github.com/7eventy7/Lucidium/blob/main/CREDITS.md
 <hr>
 
 <a href="FEATURE-LIST.md"><img src="https://i.imgur.com/8eAEL3p.png" alt="credits" height="50"></a>
 
 > A fully fledged feature list describing everything that is included in the resource pack. All features are organized into categories based on what they change about the game. The list *should* be fully complete, however, if you notice any inconsistencies please raise an issue.
+
+https://github.com/7eventy7/Lucidium/blob/main/FEATURE-LIST.md
 <hr>
 
 <a href="LICENSE.md"><img src="https://i.imgur.com/PtNYlX3.png" alt="credits" height="50"></a>
 
 > Text about license
+
+https://github.com/7eventy7/Lucidium/blob/main/LICENSE.md
 <hr>
