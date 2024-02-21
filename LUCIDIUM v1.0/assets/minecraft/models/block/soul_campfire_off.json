@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_soul_campfire_off",
+  "textures": {
+        "particle": "block/soul_campfire_log",
+        "log": "block/soul_campfire_log"
+  }
+}

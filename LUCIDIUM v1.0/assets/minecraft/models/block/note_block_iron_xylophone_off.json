@@ -1,0 +1,6 @@
+{
+    "parent": "block/note_instrument",
+    "textures": {
+        "all": "block/note_block_iron_xylophone_off"
+    }
+}

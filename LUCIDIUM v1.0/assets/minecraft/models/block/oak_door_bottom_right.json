@@ -1,0 +1,23 @@
+{
+	"credit": "Made by 7eventy7",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "block/oak_door_bottom",
+		"1": "block/oak_door_bottom2",
+		"2": "block/oak_door_sides_v",
+		"particle": "block/oak_door_bottom"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [13, 0, 10, 16], "texture": "#2", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [3, 0, 0, 16], "texture": "#2", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "west"},
+				"down": {"uv": [13, 0, 10, 16], "texture": "#2", "cullface": "down"}
+			}
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/sandstone_stairs",
+  "textures": {
+    "bottom": "block/red_sandstone_bottom",
+    "top": "block/red_sandstone_top",
+    "side": "block/red_sandstone_slab",
+    "left": "block/red_sandstone_stair_left",
+    "right": "block/red_sandstone_stair_right",
+	  "trim": "block/red_sandstone",
+    "particle": "block/red_sandstone"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/note_pitch",
+    "textures": {
+        "all": "block/note_block_16_off"
+    }
+}

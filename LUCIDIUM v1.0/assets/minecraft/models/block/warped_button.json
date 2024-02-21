@@ -1,0 +1,21 @@
+{
+	"credit": "Made by 7eventy7",
+	"textures": {
+		"particle": "block/warped_button",
+		"texture": "block/warped_button"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 6],
+			"to": [11, 2, 10],
+			"faces": {
+				"north": {"uv": [5, 12, 11, 14], "texture": "#texture"},
+				"east": {"uv": [1, 14, 5, 16], "texture": "#texture"},
+				"south": {"uv": [5, 14, 11, 16], "texture": "#texture"},
+				"west": {"uv": [11, 12, 15, 14], "texture": "#texture"},
+				"up": {"uv": [5, 6, 11, 10], "texture": "#texture"},
+				"down": {"uv": [5, 6, 11, 10], "texture": "#texture", "cullface": "down"}
+			}
+		}
+	]
+}

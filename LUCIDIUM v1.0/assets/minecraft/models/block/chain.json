@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "block/chain",
+		"all": "block/chain"
+	},
+	"elements": [
+		{
+			"from": [5.88, 0, 8],
+			"to": [10.12, 16, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [8, 0, 4, 16], "texture": "#all"},
+				"south": {"uv": [4, 0, 8, 16], "texture": "#all"}
+			}
+		},
+		{
+			"from": [8, 0, 5.88],
+			"to": [8, 16, 10.12],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 4, 16], "texture": "#all"},
+				"west": {"uv": [4, 0, 0, 16], "texture": "#all"}
+			}
+		}
+	]
+}
