@@ -1,4 +1,4 @@
-# Terms of Use
+# TERMS OF USE
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
