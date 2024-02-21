@@ -1,4 +1,7 @@
 <a href="README.md"><img src="https://i.imgur.com/QWjFIwz.png" alt="credits"></a>
+![lucidium-title3](https://github.com/7eventy7/Lucidium/assets/75962770/4db7dc59-ed8c-4674-9a56-328460dd6074)
+
+
 ## A Vanilla Focused Minecraft Resource Pack
 
 <a href="README.md"><img src="https://i.imgur.com/MbBHJzC.png" alt="credits" height="50"></a>
