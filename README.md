@@ -29,7 +29,9 @@ https://github.com/7eventy7/Lucidium/blob/main/FEATURE-LIST.md
 
 <a href="LICENSE.md"><img src="https://i.imgur.com/PtNYlX3.png" alt="credits" height="50"></a>
 
-> Text about license
+> This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+> © 2024 7eventy7 | Some Rights Reserved | CC BY-NC-SA 4.0
 
 https://github.com/7eventy7/Lucidium/blob/main/LICENSE.md
 <hr>
