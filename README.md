@@ -32,7 +32,7 @@ https://github.com/7eventy7/Lucidium/blob/main/GALLERY.md
 
 <img src="https://github.com/7eventy7/Lucidium/assets/75962770/6a4b51a4-6e43-4b69-ab35-51db18ce293f" style="height: 50px;">
 
-> A complete list of all the projects and creators that help contribute assets used in Lucidium!
+> A complete list of all the projects and creators that contributed assets used in Lucidium!
 
 https://github.com/7eventy7/Lucidium/blob/main/CREDITS.md
 <hr>
