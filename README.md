@@ -25,21 +25,21 @@ https://github.com/7eventy7/Lucidium/blob/main/FEATURE-LIST.md
 
 <img src="https://github.com/7eventy7/Lucidium/assets/75962770/fd9b3e30-a776-4f03-bc87-7d17f836ed9f" style="height: 50px;">
 
-> Check out individual and in-game comparisons of some of the changes featured in Lucidium!
+> Check out individual and in-game comparisons of some of the changes featured in Lucidium.
 
 https://github.com/7eventy7/Lucidium/blob/main/GALLERY.md
 <hr>
 
 <img src="https://github.com/7eventy7/Lucidium/assets/75962770/6a4b51a4-6e43-4b69-ab35-51db18ce293f" style="height: 50px;">
 
-> A complete list of all the projects and creators that contributed assets used in Lucidium!
+> A complete list of all the projects and creators that contributed assets used in Lucidium.
 
 https://github.com/7eventy7/Lucidium/blob/main/CREDITS.md
 <hr>
 
 <img src="https://github.com/7eventy7/Lucidium/assets/75962770/51569b2a-05bc-449d-acac-18c47dcd27f0" style="height: 50px;">
 
-> This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+> This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
 
 © 2024 7eventy7 | Some Rights Reserved | CC BY-NC-SA 4.0
 
