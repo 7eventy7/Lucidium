@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "top": "minecraft:block/melon_top",
+    "bottom": "minecraft:block/melon_bottom",
+    "side": "minecraft:block/melon_side",
+    "front": "minecraft:block/melon_side"
+  }
+}
