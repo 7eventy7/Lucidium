@@ -43,5 +43,3 @@ Check out what has been added or changed from every single version ever released
 
 * __GUI__
     * _seperated into single sprites_
-
-### Removed
