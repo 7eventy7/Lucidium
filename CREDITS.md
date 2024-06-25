@@ -23,7 +23,7 @@ Please check out their amazing work!
 
 ● [Spawn Eggs Faces](https://www.planetminecraft.com/texture-pack/spawn-eggs-faces/) by 🔗 [ByBoxi](https://www.planetminecraft.com/member/byboxi/)
 
-● [Unique Spawn Eggs Add-ons](https://www.planetminecraft.com/texture-pack/unique-spawn-eggs-sniffer-add-on/) by 🔗 [ByBoxi](https://www.planetminecraft.com/member/5543mj/)
+● [Unique Spawn Eggs Add-on](https://www.planetminecraft.com/texture-pack/unique-spawn-eggs-sniffer-add-on/ ) by 🔗 [5543Mj](https://www.planetminecraft.com/member/5543mj/)
 
 ● [Double Slabs](https://www.planetminecraft.com/texture-pack/improved-stone-models/) by 🔗 [WandererReece](https://www.planetminecraft.com/member/wandererreece/)
 
