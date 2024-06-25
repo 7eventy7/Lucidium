@@ -48,9 +48,9 @@ https://github.com/7eventy7/Lucidium/blob/main/CREDITS.md
 
 <img src="./images/header/terms-of-use.png" style="height: 50px;">
 
-> This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+[This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.](https://github.com/7eventy7/Lucidium/blob/main/LICENSE.md)
 
 © 2024 7eventy7 | Some Rights Reserved | CC BY-NC-SA 4.0
 
-https://github.com/7eventy7/Lucidium/blob/main/LICENSE.md
+
 <hr>
