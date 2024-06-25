@@ -1,0 +1,24 @@
+{
+	"credit": "Made by 7eventy7",
+	"ambientocclusion": false,
+	"texture_size": [24, 16],
+	"textures": {
+		"top": "block/exposed_copper_door_top",
+		"top_alt": "block/exposed_copper_door_top_alt",
+		"sides": "block/exposed_copper_door_sides",
+		"particle": "block/exposed_copper_door_top"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [13.33333, 0, 11.33333, 16], "texture": "#sides", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"south": {"uv": [4.66667, 0, 2.66667, 16], "texture": "#sides", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#top_alt", "cullface": "west"},
+				"up": {"uv": [6, 16, 8, 0], "rotation": 180, "texture": "#sides", "cullface": "up"}
+			}
+		}
+	]
+}

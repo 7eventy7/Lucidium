@@ -1,10 +1,11 @@
 {
 	"credit": "Made by 7eventy7",
 	"ambientocclusion": false,
+	"texture_size": [24, 16],
 	"textures": {
-		"0": "block/spruce_door_top",
-		"1": "block/spruce_door_top2",
-		"2": "block/spruce_door_sides_v",
+		"top": "block/spruce_door_top",
+		"top_alt": "block/spruce_door_top_alt",
+		"sides": "block/spruce_door_sides",
 		"particle": "block/spruce_door_top"
 	},
 	"elements": [
@@ -12,11 +13,11 @@
 			"from": [0, 0, 0],
 			"to": [3, 16, 16],
 			"faces": {
-				"north": {"uv": [6, 0, 3, 16], "texture": "#2", "cullface": "north"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"south": {"uv": [16, 0, 13, 16], "texture": "#2", "cullface": "south"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#0", "cullface": "west"},
-				"up": {"uv": [10, 0, 13, 16], "rotation": 180, "texture": "#2", "cullface": "up"}
+				"north": {"uv": [4.66667, 0, 2.66667, 16], "texture": "#sides", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#top_alt"},
+				"south": {"uv": [13.33333, 0, 11.33333, 16], "texture": "#sides", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#top", "cullface": "west"},
+				"up": {"uv": [8, 0, 6, 16], "rotation": 180, "texture": "#sides", "cullface": "up"}
 			}
 		}
 	]

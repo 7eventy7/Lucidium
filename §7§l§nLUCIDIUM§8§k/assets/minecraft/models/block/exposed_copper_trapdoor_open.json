@@ -1,0 +1,23 @@
+{
+	"credit": "Made by 7eventy7",
+	"textures": {
+		"front": "block/exposed_copper_trapdoor",
+		"front_alt": "block/exposed_copper_trapdoor_alt",
+		"sides": "block/exposed_copper_trapdoor_sides",
+		"particle": "block/exposed_copper_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 13],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [16, 16, 0, 0], "texture": "#front_alt"},
+				"east": {"uv": [0, 0, 16, 3], "rotation": 90, "texture": "#sides", "cullface": "east"},
+				"south": {"uv": [0, 16, 16, 0], "texture": "#front", "cullface": "south"},
+				"west": {"uv": [16, 0, 0, 3], "rotation": 90, "texture": "#sides", "cullface": "west"},
+				"up": {"uv": [16, 0, 0, 3], "texture": "#sides", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 3], "texture": "#sides", "cullface": "down"}
+			}
+		}
+	]
+}

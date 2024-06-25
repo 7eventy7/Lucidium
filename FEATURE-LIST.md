@@ -48,13 +48,15 @@
     * _color distinct texture with blockstate indication_ <sup>"facing"</sup>
 * __Note Block__
     * _retexture with blockstate indication_ <sup>"note", "instrument", "powered"</sup>
+* __Crafter__
+    * _retexture with blockstate indication_ <sup>"triggered, "crafting"</sup>
 
 ## ITEM CHANGES
 * __Changed from Sprite to 3D__
     * _Bell_
     * _Cauldron_
     * _Hopper_
-    * _Lever__
+    * _Lever_
     * _Minecart_ (all variants)
     * _Lantern, Soul Lantern_
     * _Torch, Soul Torch, Redstone Torch_
@@ -75,6 +77,7 @@
     * _Gunpowder, Sugar, Glowstone Dust_
 * __Consistency Retextures__
     * _Sugar Cane_
+    * _Wolf Armor_
     * _Smithing Template Coast Armor Trim_
     * _Boat, Chest Boat_ (all variants)
     * _Door_ (all variants)
@@ -82,7 +85,7 @@
     * _Book, Enchanted Book, Book and Quill_
     * _Dark Oak Sapling, Acacia Sapling_
     * _Tall Flower_ (all variants)
-    * _Porkchop Texture, Cooked Porkchop_
+    * _Porkchop, Cooked Porkchop_
     * _Cooked Salmon_
     * _Sniffer Egg_
     * _Chain_
@@ -118,7 +121,9 @@
 * __Texture Recolors__
     * _Blaze Rod, Blaze Powder_
     * _Bone, Bonemeal_
+    * _Empty Map, Map_
     * _Melon Seed_
+    * _Magma Cream_
     * _Wheat_
     * _Lead_
     * _Egg_
@@ -136,7 +141,7 @@
     * _Banner_ (all colors & variants)
 * __Warning Borders__
     * _Infested Blocks_ (all variants)
-    * _Waxed Copper Blocks, Stairs, Slabs_ (all variants)
+    * _Waxed Copper Blocks, Bulbs, Grates, Stairs, Slabs, Doors, Trapdoors_ (all variants)
 
 ## BLOCK TEXTURE / MODEL CHANGES
 * __Dragon Egg__

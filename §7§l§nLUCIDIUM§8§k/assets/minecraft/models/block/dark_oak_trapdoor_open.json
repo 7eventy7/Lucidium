@@ -1,9 +1,9 @@
 {
 	"credit": "Made by 7eventy7",
 	"textures": {
-		"1": "block/dark_oak_trapdoor",
-		"2": "block/dark_oak_trapdoor2",
-		"3": "block/dark_oak_trapdoor_sides",
+		"front": "block/dark_oak_trapdoor",
+		"front_alt": "block/dark_oak_trapdoor_alt",
+		"sides": "block/dark_oak_trapdoor_sides",
 		"particle": "block/dark_oak_trapdoor"
 	},
 	"elements": [
@@ -11,12 +11,12 @@
 			"from": [0, 0, 13],
 			"to": [16, 16, 16],
 			"faces": {
-				"north": {"uv": [16, 16, 0, 0], "texture": "#2"},
-				"east": {"uv": [16, 3, 0, 0], "rotation": 90, "texture": "#3", "cullface": "east"},
-				"south": {"uv": [0, 16, 16, 0], "texture": "#1", "cullface": "south"},
-				"west": {"uv": [0, 0, 16, 3], "rotation": 90, "texture": "#3", "cullface": "west"},
-				"up": {"uv": [16, 3, 0, 0], "texture": "#3", "cullface": "up"},
-				"down": {"uv": [0, 0, 16, 3], "texture": "#3", "cullface": "down"}
+				"north": {"uv": [16, 16, 0, 0], "texture": "#front_alt"},
+				"east": {"uv": [0, 0, 16, 3], "rotation": 90, "texture": "#sides", "cullface": "east"},
+				"south": {"uv": [0, 16, 16, 0], "texture": "#front", "cullface": "south"},
+				"west": {"uv": [16, 0, 0, 3], "rotation": 90, "texture": "#sides", "cullface": "west"},
+				"up": {"uv": [16, 0, 0, 3], "texture": "#sides", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 3], "texture": "#sides", "cullface": "down"}
 			}
 		}
 	]

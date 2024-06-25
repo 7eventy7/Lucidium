@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 15,
-		"description": [{"text":" Version: 1.0 || Java: 1.20.x","color":"white"},{"text":"\n§o  Courtesy of 7eventy7","color":"gray"}]
+		"pack_format": 34,
+		"description": [{"text":" Version: 1.1 || Java: 1.21.x","color":"white"},{"text":"\n§o  Courtesy of 7eventy7","color":"gray"}]
 	}
 }

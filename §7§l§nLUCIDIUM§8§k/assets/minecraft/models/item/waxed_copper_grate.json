@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/copper_grate",
+  "textures": {
+    "all": "minecraft:block/waxed_copper_grate"
+  }
+}
