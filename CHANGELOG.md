@@ -41,9 +41,6 @@ Check out what has been added or changed from every single version ever released
 * __Door, Trapdoor__ (all variants)
     * _retexture to correct mapping to be consistent with highlights/shadows_
 
-* __Door, Trapdoor__ (all variants)
-    * _retexture to correct mapping to be consistent with highlights/shadows_
-
 * __GUI__
     * _seperated into single sprites_
 
